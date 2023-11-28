@@ -1,2 +1,2 @@
 # System-Auction-Design-patterns-
-![diagram](image/diagram.png)
+![diagram](./image/diagram.png)
